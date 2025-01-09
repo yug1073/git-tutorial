@@ -1,3 +1,1 @@
-this is veson of my softwere 
-and I want to also add new softwere in my PC
-I add new line
+hello, this is index.txt file

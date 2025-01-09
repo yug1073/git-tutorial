@@ -1,2 +1,1 @@
-hello, I am learning git in this folder
-and I add new line in this TXT file 
+hey, this is a utils.txt file
