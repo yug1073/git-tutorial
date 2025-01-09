@@ -1,1 +1,2 @@
-hello, I am learning git in this folder 
+hello, I am learning git in this folder
+and I add new line in this TXT file 
